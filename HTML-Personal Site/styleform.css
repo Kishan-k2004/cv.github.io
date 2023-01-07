@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="UTF-8" />
+	<title>Contect me</title>
+</head>
+<body>
+	<h1>My contact details</h1>
+	<h4>My Fictional Address</h4>
+	<h4>08965359848</h4>
+	<h4>myemail@gmail.com</h4>
+	<form action="index.html" method="post">
+		<label>Your name:</label>
+		<input type="text" name="" value="">
+		<br>
+		<label>Password:</label>
+		<input type="text" name="" value="">
+		<br>
+		<input type="submit" name="">
+	</form>
+</body>
+</html>
